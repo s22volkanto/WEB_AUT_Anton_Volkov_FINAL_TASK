@@ -5,8 +5,6 @@
 Automated testing script for the website:  
 [https://demoqa.com/automation-practice-form](https://demoqa.com/automation-practice-form)
 
-This project was created as part of the final task for web automation using Cypress.
-
 ---
 
 ## What It Does
